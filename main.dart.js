@@ -6979,7 +6979,7 @@ $.av.toString
 s=3
 return A.I(A.at7(),$async$Gh)
 case 3:s=4
-return A.I(A.av8("debug"),$async$Gh)
+return A.I(A.av8("production"),$async$Gh)
 case 4:A.aB6(B.a2m)
 $.fk().$3$level$stackTrace("Start",B.br,null)
 if($.av==null)A.aud()
