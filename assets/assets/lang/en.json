@@ -15,7 +15,7 @@
     "certiTitle": "Congrats! You're certified",
     "oops": "Oops! \n You failed in the test",
     "youfailed": "You failed in the test",
-    "failReason": "You have not scored the minimum requirement to complete the certification",
+    "failReason": "You have not scored minimum score to the complete the certification",
     "retry": "Retry the training and complete certification",
     "submit": "Submit",
     "getYour": "Get your",
@@ -33,7 +33,7 @@
     "topicOneTitle": "What is",
     "topicTwoTitle": "How to use this service?",
     "topicThreeTitle": "Do's & Don'ts",
-    "answerQuestion": "please answer question to go next",
+    "answerQuestion": "Please answer the question to proceed",
     "proceedNext": "you need to watch complete tutorial in order to proceed to the next step",
     "swr": "Something went wrong please try again after sometime",
     "watchAgain": "Watch tutorial"
