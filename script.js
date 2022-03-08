@@ -15,3 +15,9 @@ function SuccessTraining(param1, param2, param3,param4) {
 function clearWebBrowser() {
     app.clearWebBrowser();
 }
+
+function skipBBps() {
+    app.skipBBps();
+}
+
+
